@@ -13,7 +13,7 @@ spring:
   cloud:
     server:
       git:
-        uri: https://github.com/Dze0/config-service
+        uri: https://github.com/Dze0/config-repo
         default-label: main
         timeout: 5
         clone-on-start: true
